@@ -1,12 +1,12 @@
-def max (n1, n2):
-    if n1 < n2:
-        print (n2)
-    elif n2 < n1:
-        print (n1)
+def max (12, 8):
+    if 12< 8:
+        print (8)
+    elif 8 < 12:
+        print (12)
     else:
-        print ("Son demasiado iguales")
+        print ("Son distintos")
 
-max(5, 5)
+max(20)
 
 
 
